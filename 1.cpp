@@ -1,4 +1,3 @@
-//1부터 N까지 M의 배수합
 #include<iostream>
 using namespace std;
 
